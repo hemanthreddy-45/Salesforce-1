@@ -5,7 +5,7 @@ public class AccountHandlerTest {
     @isTest
     public static void testUpdateAccountRevenue() {
         
-        // Create test data: a list of Account records
+        // Create test data: a list of Account records - checking
         List<Account> testAccounts = new List<Account>{
             new Account(Name = 'Test Account 1', Industry = 'Technology'),
             new Account(Name = 'Test Account 2', Industry = 'Healthcare'),

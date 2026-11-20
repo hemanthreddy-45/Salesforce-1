@@ -10,7 +10,7 @@ public class AccountHandler {
                     acc.AnnualRevenue = 1000000;  // Set revenue to 1 million if Industry is Technology
                 }
             }
-            // Update accounts in the database
+            // Update accounts in the database - test check
             update accounts;
         }
     }
